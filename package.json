@@ -1,0 +1,29 @@
+{
+  
+  "name": "git-release-notice-telegram-bot",
+  "description": "A NodeJS application for broadcasting repositories releases through Telegram bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmrTech/git-release-notice-telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "git",
+    "repository",
+    "releases"
+  ],
+  "author": "mrTech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsmrTech/git-release-notice-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/itsmrTech/git-release-notice-telegram-bot#readme",
+  "dependencies": {
+  }
+}
